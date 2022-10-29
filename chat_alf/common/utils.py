@@ -1,5 +1,5 @@
 import json
-from common.consts import MAX_PACKAGE_LENGTH, ENCODING
+from chat_alf.common.consts import MAX_PACKAGE_LENGTH, ENCODING
 
 
 def get_message(client):
